@@ -1,5 +1,3 @@
-# led_matrix_panel
-LED Matrix Panel Controller
 
 ### 1. SMD size
 1. Pixel Pitch
